@@ -40,10 +40,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/pajka-js/pajka-js/blob/master/img/dino.gif" width="150%">
-</p>
-
 <!--
 **pajka-js/pajka-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on her GitHub profile.
 -->
