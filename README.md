@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/puf17640" class="rich-diff-level-one">
+  <a href="https://github.com/pajka-js" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=pajka-js&title_color=333&text_color=777&hide=stars&show_icons=true" alt="Pajka's github stats" >
   </a>
 </p>
