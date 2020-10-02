@@ -27,10 +27,6 @@
   <img src="https://img.icons8.com/material/24/000000/kawaii-coffee.png" width="30px"/>
   </a> 
   &emsp;
-  <a href=" " title="Coming soon...">
-    <img src="https://img.icons8.com/material/24/000000/google-code.png" width="28px" alt="Soon"/>
-  </a>
-  &emsp;
   <a href="https://www.linkedin.com/in/krist%C3%ADna-%C5%A1teflovi%C4%8Dov%C3%A1-483b75153">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
