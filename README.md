@@ -7,6 +7,8 @@
 [![Profile stats](https://github-readme-stats.vercel.app/api?username=pajka-js&title_color=333&text_color=777&hide=stars&show_icons=true&layout=compact)](https://github.com/pajka-js)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pajka-js&title_color=333&layout=compact)](https://github.com/pajka-js/github-readme-stats)
 
+---
+
 <p align="center">
   &emsp;
   <a href="mailto: k.steflovic@gmail.com">
@@ -31,8 +33,6 @@
   <br />
   
 </p>
-
----
 
 <!--
 **pajka-js/pajka-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on her GitHub profile.
