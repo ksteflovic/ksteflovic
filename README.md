@@ -4,8 +4,8 @@
   <strong>Just a random girl, who loves coding, skateboarding and collecting stamps.</strong>
 </p>
 
-[![Profile stats](https://github-readme-stats.vercel.app/api?username=pajka-js&title_color=333&text_color=777&hide=stars&show_icons=true&layout=compact)](https://github.com/pajka-js)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pajka-js&title_color=333&layout=compact)](https://github.com/pajka-js/github-readme-stats)
+[![Profile stats](https://github-readme-stats.vercel.app/api?username=pajka-js&hide=stars&show_icons=true&layout=compact)](https://github.com/pajka-js)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pajka-js&layout=compact)](https://github.com/pajka-js/github-readme-stats)
 
 ---
 
