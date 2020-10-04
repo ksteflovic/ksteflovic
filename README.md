@@ -4,11 +4,9 @@
   <strong>Just a random girl, who loves coding, skateboarding and collecting stamps.</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/pajka-js" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=pajka-js&title_color=333&text_color=777&hide=stars&show_icons=true" alt="Pajka's github stats" >
-  </a>
-</p>
+[![Profile stats](https://github-readme-stats.vercel.app/api?username=pajka-js&title_color=333&text_color=777&hide=stars&show_icons=true&layout=compact)](https://github.com/pajka-js)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pajka-js&title_color=333&layout=compact)](https://github.com/pajka-js/github-readme-stats)
+
 <p align="center">
   &emsp;
   <a href="mailto: k.steflovic@gmail.com">
