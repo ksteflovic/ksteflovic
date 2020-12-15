@@ -12,19 +12,19 @@
 <p align="center">
   &emsp;
   <a href="mailto: k.steflovic@gmail.com">
-   <img src="https://img.icons8.com/doodle/48/000000/email--v1.png" width="28px"/>
+    <img src="https://img.icons8.com/cute-clipart/64/000000/email.png" width="28px"/>
   </a>
   &emsp;
   <a href="https://twitter.com/st3fina">
-    <img src="https://img.icons8.com/cotton/64/000000/twitter.png" width="30px"/>
+    <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" width="30px"/>
   </a>
   &emsp;
   <a href= "https://instagram.com/st3fina">
-    <img src="https://img.icons8.com/office/64/000000/instagram-new.png" width="26px"/>
+    <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="32px"/>
   </a>
   &emsp;
   <a href="https://www.buymeacoffee.com/pajka">
-    <img src="https://img.icons8.com/color/48/000000/coffee-to-go.png" width="32px"/>
+    <img src="https://img.icons8.com/cute-clipart/64/000000/kawaii-coffee.png" width="32px"/>
   </a> 
   &emsp;
   <a href="https://www.linkedin.com/in/krist%C3%ADna-%C5%A1teflovi%C4%8Dov%C3%A1-483b75153">
