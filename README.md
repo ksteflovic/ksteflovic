@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello world, I am Pajka 👩‍💻</h2>
+<h2 align="center">👋 Hello world, I am Stef 👩‍💻</h2>
 
 <p align="center">
   <strong>Just a random girl, who loves coding, skateboarding and collecting stamps.</strong>
