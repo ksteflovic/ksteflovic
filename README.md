@@ -1,5 +1,5 @@
 <h2 align="left">Hello 👋 I am Kristina</h2>
-<h4 align="left">A passionate frontend developer, retoucher and graphic designer from <em>Slovakia</em></h4>
+<h4 align="left">A passionate frontend developer, retoucher and UX/UI designer from <em>Slovakia</em></h4>
 
 - 🔭 I’m currently working on my [personal webpage](https://github.com/ksteflovic/personal-webpage) (private)
 
