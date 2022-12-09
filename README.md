@@ -1,9 +1,9 @@
 <h2 align="left">Hello 👋 I am Kristina</h2>
 <h4 align="left">A passionate frontend developer, retoucher and graphic designer from <em>Slovakia</em></h4>
 
-- 🔭 I’m currently working on [studujvedu](https://github.com/ksteflovic/studujvedu) and [NLP_phdWork](https://github.com/ksteflovic/NLP_phdWork) (both private)
+- 🔭 I’m currently working on my [personal webpage](https://github.com/ksteflovic/personal-webpage) (private)
 
-- 📫 How to connect with me: **k.steflovic@gmail.com**
+- 📫 How to get in touch with me: **k.steflovic@gmail.com**
 
 <br>
 
