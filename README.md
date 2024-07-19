@@ -4,7 +4,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=ksteflovic&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-<h4 align="left">PhD. student @ <a href="https://www.facebook.com/fpvai.ukf"> UKF FPVaI</a>. Web development and 3D graphics are my delicasy.</h4>
+<h4 align="left">Teacher @ <a href="https://www.uhk.cz/" target="_blank">UHK FIM</a>. Web development and 3D graphics are my delicasy.</h4>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/977931722123517952)  [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.steflovic@gmail.com) 	[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Kirsten-Steflovic) 
 
